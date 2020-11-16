@@ -4,6 +4,10 @@ h2 {
     font-size: 18px;
 }
 
+h1 {
+    color: goldenrod;
+}
+
 span { 
     font-style: italic;
 }
