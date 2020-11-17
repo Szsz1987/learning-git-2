@@ -1,0 +1,18 @@
+h2 {
+    font-weight: 100;
+    font-style: italic;
+    font-size: 18px;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+span { 
+    font-style: italic;
+}
+
+body {
+    display: -ms-flexbox;
+    display: flex;
+}
